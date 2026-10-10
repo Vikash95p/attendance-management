@@ -1,0 +1,83 @@
+{
+  "date_range": {
+    "start": "2026-10-08",
+    "end": "2026-10-14"
+  },
+  "students": [
+    {
+      "name": "Rahul Sharma",
+      "roll_no": "1",
+      "present_days": 5,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": true,
+        "2026-10-09": true,
+        "2026-10-10": false,
+        "2026-10-11": true,
+        "2026-10-12": false,
+        "2026-10-13": true,
+        "2026-10-14": true
+      }
+    },
+    {
+      "name": "Aman Verma",
+      "roll_no": "2",
+      "present_days": 6,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": true,
+        "2026-10-09": true,
+        "2026-10-10": true,
+        "2026-10-11": false,
+        "2026-10-12": true,
+        "2026-10-13": true,
+        "2026-10-14": true
+      }
+    },
+    {
+      "name": "Priya Singh",
+      "roll_no": "3",
+      "present_days": 4,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": true,
+        "2026-10-09": false,
+        "2026-10-10": true,
+        "2026-10-11": false,
+        "2026-10-12": true,
+        "2026-10-13": false,
+        "2026-10-14": true
+      }
+    },
+    {
+      "name": "Neha Gupta",
+      "roll_no": "4",
+      "present_days": 7,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": true,
+        "2026-10-09": true,
+        "2026-10-10": true,
+        "2026-10-11": true,
+        "2026-10-12": true,
+        "2026-10-13": true,
+        "2026-10-14": true
+      }
+    },
+    {
+      "name": "Arjun Yadav",
+      "roll_no": "5",
+      "present_days": 3,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": false,
+        "2026-10-09": true,
+        "2026-10-10": false,
+        "2026-10-11": true,
+        "2026-10-12": false,
+        "2026-10-13": true,
+        "2026-10-14": false
+      }
+    }
+  ]
+}
